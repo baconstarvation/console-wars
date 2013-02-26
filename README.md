@@ -9,7 +9,7 @@ To get started:
   
   Linux - `google-chrome --disable-web-security`
   Mac - `open -a Google\ Chrome --args --disable-web-security`
-  Windows - find where the chrome exe is located and run chrome.exe --disable-web-security
+  Windows - find where the chrome exe is located and run `chrome.exe --disable-web-security`
 
 Opening chrome with web-security disabled allows you to make cross domain request from the console, which is what console wars is all about.
 
