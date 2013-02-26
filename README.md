@@ -21,6 +21,8 @@ The url for each endpoint is always indicated by a name attribute on an html ele
 
 The first 4 challenge hint elements are identified by either the class or id challenge<challenge#>. 
 
+You may only use the console, no additional search functionality or view source. Otherwise you are cheating and you are a terrible person. You may use jquery and anything that pops up in the console.
+
 As an example the hint:
 
 ```
